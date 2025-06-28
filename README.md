@@ -1,2 +1,2 @@
 # quantum-computing
-Studying for Quantum Computing and quantum-security
+It is Studying repository for Quantum Computing and Quantum Security
